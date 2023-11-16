@@ -4,6 +4,6 @@ Featrix is changing how data and ML work together. Data is foundational to ML an
 
 Read more on our [web site](https://featrix.ai) or [check out the documentation](https://featrix-docs.readthedocs.io/en/latest/index.html).
 
-Interested in trying it out? [Hit our waitlist page for access](https://featrix.ai/signup).
+Interested in trying it out? [Check out our web site](https://featrix.ai/).
 
 
